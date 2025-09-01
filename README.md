@@ -57,6 +57,11 @@ C:
 
 
 ---
+## 📖 Learning Outcomes
+
+- Understanding of tree data structures in C#.
+- Recursive traversal and search in hierarchical data.
+- ASCII-based visualization of trees.
 
 ## 📊 UML Class Diagram
 
@@ -79,8 +84,4 @@ classDiagram
     TreeNode~T~ "1" --> "*" TreeNode~T~ : Children
     TreeNode~T~ --> TreeNode~T~ : Parent
 
-## 📖 Learning Outcomes
 
-- Understanding of tree data structures in C#.
-- Recursive traversal and search in hierarchical data.
-- ASCII-based visualization of trees.
