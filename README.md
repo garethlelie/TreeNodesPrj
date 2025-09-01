@@ -16,9 +16,9 @@ This project is a **C# console application** that demonstrates how to build and 
 - **Language**: C#  
 - **Framework**: .NET (Console Application)  
 - **Libraries / Namespaces**:
-  - `System` → Console I/O  
-  - `System.Collections.Generic` → Tree nodes and child lists  
-  - `System.Linq`, `System.Text`, `System.Threading.Tasks` → included by default  
+  - System → Console I/O  
+  - System.Collections.Generic → Tree nodes and child lists  
+  - System.Linq, System.Text, System.Threading.Tasks → included by default  
 
 ---
 
